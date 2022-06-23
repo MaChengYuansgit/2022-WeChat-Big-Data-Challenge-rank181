@@ -1,5 +1,5 @@
 ## [2022中国高校计算机大赛-微信大数据挑战赛](https://algo.weixin.qq.com/)
-
+#### 数据需在官网下载
 ### 赛题介绍
 多模态短视频分类是视频理解领域的基础技术，在安全审核、推荐运营、内容搜索等领域有着非常广泛的应用。
 微信视频号每天有海量的短视频创作，我们需要用算法对这些视频分类。分类体系由产品预先定义。
@@ -18,7 +18,7 @@
 - [evaluate.py](evaluate.py) 是线上评测代码示例
 - [inference.py](inference.py) 是生成提交文件的示例代码
 - [main.py](main.py) 是训练模型的入口
-- [model.py](model.py) 是baseline模型
+- [model.py](model.py) 是model模型
 - [util.py](util.py) 是util函数
 
 
