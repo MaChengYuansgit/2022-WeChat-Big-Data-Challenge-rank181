@@ -11,6 +11,12 @@
 ### 数据介绍
 详见 [data/README.md](data/README.md)，请确保先检查数据下载是否有缺漏错误。
 
+
+### model
+![image](https://github.com/MaChengYuansgit/2022-WeChat-Big-Data-Challenge-rank181/assets/91605267/b2eba21d-f569-4350-98dc-cf629d390f5c)
+
+
+
 ### 代码介绍
 - [category_id_map.py](category_id_map.py) 是category_id 和一级、二级分类的映射
 - [config.py](config.py) 是配置文件
